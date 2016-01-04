@@ -22,15 +22,15 @@
     "chai": "*",
     "istanbul": "*",
     "gulp": "~3",
-    "gulp-util": "~2",
+    "gulp-util": "~3",
     "coveralls": "~2",
-    "gulp-uglify": "~0",
+    "gulp-uglify": "^1.5.1",
     "webpack": "~0",
     "gulp-watch": "~0",
     "gulp-plumber": "~0",
     "through2": "~0",
     "gulp-rename": "~1",
-    "gulp-mocha": "~0"
+    "gulp-mocha": "^2.2.0"
   },
   "engines": {
     "node": ">=0.9",
