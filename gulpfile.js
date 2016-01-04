@@ -39,7 +39,7 @@ PROD_ENV = R++;
 
 // Transformation function on gulp.src depending on env
 var getGlob = function(glob_target) {
-  var src = gulp.src(glob_target)
+  var src = gulp.src(glob_target);
 
   switch(ENV_SWITCH) {
     case DEV_ENV:
