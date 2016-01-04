@@ -9,4 +9,4 @@ module.exports = {
   watch: true,
   watchDelay: 500,
   devtool: 'source-map'
-}
+};
